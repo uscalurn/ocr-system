@@ -37,6 +37,9 @@ Pipeline:
 ## Dataset
 
 The model is trained on the **TextOCR dataset** from Kaggle.
+https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset/data
+
+<img width="499" height="356" alt="image" src="https://github.com/user-attachments/assets/c164f88a-b40c-4ad6-b263-31d676275392" />
 
 * Task: scene text extraction from images
 * Contains annotated text regions and corresponding labels
