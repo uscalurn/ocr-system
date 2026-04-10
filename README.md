@@ -1,15 +1,3 @@
-# ocr-system
-This project implements an end-to-end Optical Character Recognition (OCR) system.
-
-The pipeline consists of:
-- Text detection using a segmentation-based approach to localize text regions
-- Bounding box extraction from predicted masks
-- Text recognition using a CNN + Transformer architecture
-
-The system processes input images and outputs extracted text through a full pipeline:
-Image → Detection → Cropping → Recognition → Text
-
-This project focuses on building core deep learning components, including model design, preprocessing, training, and inference.
 # End-to-End OCR System (Detection + Transformer Recognition)
 
 ## Overview
@@ -103,10 +91,14 @@ ocr_pipeline.ipynb
 
 ## Demo
 * input images:
-![input_1](https://github.com/user-attachments/assets/d1d3998a-4604-4d9d-9aac-5ceacadc2112)
+<img width="207" height="302" alt="input_01" src="https://github.com/user-attachments/assets/db1adc64-b095-4114-a37f-3913806c4557" />
+
 
 * output images:
 <img width="268" height="387" alt="output_1" src="https://github.com/user-attachments/assets/e60eb67e-46db-400e-9f2e-c372236a931f" />
+
+* output text:
+  <img width="439" height="395" alt="output_text_1" src="https://github.com/user-attachments/assets/c35f84cd-58a1-4ae9-b5c8-9922d2be15f7" />
 
 
 ---
