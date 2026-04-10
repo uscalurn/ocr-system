@@ -98,7 +98,8 @@ ocr_pipeline.ipynb
 <img width="268" height="387" alt="output_1" src="https://github.com/user-attachments/assets/e60eb67e-46db-400e-9f2e-c372236a931f" />
 
 * output text:
-  <img width="439" height="395" alt="output_text_1" src="https://github.com/user-attachments/assets/c35f84cd-58a1-4ae9-b5c8-9922d2be15f7" />
+
+<img width="439" height="395" alt="output_text_1" src="https://github.com/user-attachments/assets/c35f84cd-58a1-4ae9-b5c8-9922d2be15f7" />
 
 
 ---
